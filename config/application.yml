@@ -1,0 +1,15 @@
+spring:
+  profile: dev
+
+info:
+  app:
+    konami_mode: false # also needs spring.airg.konami.url to be set
+logging:
+  config: config/logging/logback-spring.xml
+
+## springfox/swagger config
+#springfox:
+#  documentation:
+#    swagger:
+#      v2:
+#        path: /swagger2-api

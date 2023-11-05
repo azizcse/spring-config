@@ -1,0 +1,3 @@
+bank:
+  scb:
+    send_money_api: "https://www.google.com"

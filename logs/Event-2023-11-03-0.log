@@ -1,0 +1,44 @@
+2023-11-03 11:36:40,728 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 15.0.7 on Azizuls-Mac-mini.local with PID 1595 (/Users/azizulislam/Downloads/Logging/build/classes/java/main started by azizulislam in /Users/azizulislam/Downloads/Logging)
+2023-11-03 11:36:40,729 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-11-03 11:36:40,729 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-11-03 11:36:41,157 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 0.787 seconds (JVM running for 0.937)
+2023-11-03 11:38:18,160 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 15.0.7 on Azizuls-Mac-mini.local with PID 1627 (/Users/azizulislam/Downloads/Logging/build/classes/java/main started by azizulislam in /Users/azizulislam/Downloads/Logging)
+2023-11-03 11:38:18,161 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-11-03 11:38:18,161 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-11-03 11:38:18,632 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 0.642 seconds (JVM running for 0.786)
+2023-11-03 11:48:58,546 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 15.0.7 on Azizuls-Mac-mini.local with PID 1700 (/Users/azizulislam/Downloads/Logging/build/classes/java/main started by azizulislam in /Users/azizulislam/Downloads/Logging)
+2023-11-03 11:48:58,547 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-11-03 11:48:58,547 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-11-03 11:48:58,966 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 0.761 seconds (JVM running for 0.92)
+2023-11-03 11:52:40,444 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 15.0.7 on Azizuls-Mac-mini.local with PID 1790 (/Users/azizulislam/Downloads/Logging/build/classes/java/main started by azizulislam in /Users/azizulislam/Downloads/Logging)
+2023-11-03 11:52:40,444 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-11-03 11:52:40,444 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-11-03 11:52:40,865 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 0.752 seconds (JVM running for 0.895)
+2023-11-03 11:59:25,414 ERROR LogController:19 - [] Write gretting message write
+2023-11-03 11:59:25,414 INFO  LogController:20 - [] Ext path : https://eble.send/money
+2023-11-03 19:56:49,334 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 15.0.7 on Azizuls-Mac-mini.local with PID 1236 (/Users/azizulislam/Downloads/Logging/build/classes/java/main started by azizulislam in /Users/azizulislam/Downloads/Logging)
+2023-11-03 19:56:49,334 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-11-03 19:56:49,335 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-11-03 19:56:49,793 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 0.846 seconds (JVM running for 0.999)
+2023-11-03 19:57:39,799 ERROR LogController:21 - [] Write gretting message write
+2023-11-03 19:57:39,800 INFO  LogController:22 - [] Ext path : https://eble.send/money
+2023-11-03 19:58:23,099 ERROR LogController:21 - [] Write gretting message write
+2023-11-03 19:58:23,100 INFO  LogController:22 - [] Ext path : https://eble.send/money
+2023-11-03 19:59:09,888 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 15.0.7 on Azizuls-Mac-mini.local with PID 1285 (/Users/azizulislam/Downloads/Logging/build/classes/java/main started by azizulislam in /Users/azizulislam/Downloads/Logging)
+2023-11-03 19:59:09,889 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-11-03 19:59:09,889 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-11-03 19:59:10,308 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 0.799 seconds (JVM running for 0.951)
+2023-11-03 19:59:43,384 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 15.0.7 on Azizuls-Mac-mini.local with PID 1314 (/Users/azizulislam/Downloads/Logging/build/classes/java/main started by azizulislam in /Users/azizulislam/Downloads/Logging)
+2023-11-03 19:59:43,384 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-11-03 19:59:43,385 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-11-03 19:59:43,807 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 0.595 seconds (JVM running for 0.752)
+2023-11-03 19:59:53,303 ERROR LogController:22 - [] Write gretting message write
+2023-11-03 19:59:53,303 INFO  LogController:23 - [] Ext path 1 : https://eble.send/money
+2023-11-03 19:59:53,303 INFO  LogController:24 - [] Ext path 2 : https://eble.send/money
+2023-11-03 20:02:56,027 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 15.0.7 on Azizuls-Mac-mini.local with PID 1379 (/Users/azizulislam/Downloads/Logging/build/classes/java/main started by azizulislam in /Users/azizulislam/Downloads/Logging)
+2023-11-03 20:02:56,028 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-11-03 20:02:56,028 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-11-03 20:02:56,450 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 0.796 seconds (JVM running for 0.944)
+2023-11-03 20:03:05,509 ERROR LogController:23 - [] Write gretting message write
+2023-11-03 20:03:05,509 INFO  LogController:24 - [] Ext path 1 : https://www.google.com
+2023-11-03 20:03:05,510 INFO  LogController:25 - [] Ext path 2 : https://www.google.com

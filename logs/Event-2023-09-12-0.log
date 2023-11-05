@@ -1,0 +1,13 @@
+
+2023-09-12 15:53:48,902 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 17.0.8 on DESKTOP-V51SQS5 with PID 7420 (D:\java-spring\Logging\build\classes\java\main started by w3e17 in D:\java-spring\Logging)
+2023-09-12 15:53:48,904 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-09-12 15:53:48,905 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-09-12 15:53:50,402 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 2.057 seconds (JVM running for 2.533)
+2023-09-12 15:54:23,084 ERROR LogController:15 - [] Write gretting message write
+2023-09-12 15:54:24,533 ERROR LogController:15 - [] Write gretting message write
+2023-09-12 15:54:25,434 ERROR LogController:15 - [] Write gretting message write
+2023-09-12 16:15:28,711 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 17.0.8 on DESKTOP-V51SQS5 with PID 5180 (D:\java-spring\Logging\build\classes\java\main started by w3e17 in D:\java-spring\Logging)
+2023-09-12 16:15:28,713 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-09-12 16:15:28,714 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-09-12 16:15:30,177 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 2.023 seconds (JVM running for 2.452)
+2023-09-12 16:15:40,571 ERROR LogController:15 - [] Write gretting message write

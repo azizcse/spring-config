@@ -1,0 +1,3 @@
+ext:
+  ebl:
+    send_money_api: "https://eble.send/money"

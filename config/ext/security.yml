@@ -1,0 +1,4 @@
+ext:
+  security:
+    service_url: "https://www.google.com"
+    password: "1234567"
